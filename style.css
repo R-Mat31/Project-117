@@ -1,0 +1,19 @@
+.btn-danger{
+ color : beige;
+ font-size : 25px;
+ margin : 0px;
+ width : 100%;
+ box-shadow : cyan 5px 5px 5px;
+}
+.col-lg-6{
+ background-color : darkkhaki;
+ padding : 10px;
+ border-radius : 20px;
+ color : mediumslateblue;
+ box-shadow : cyan 5px 5px 5px;
+ float : none;
+ font-size : 25px;
+}
+.btn-info{
+ box-shadow : cyan 5px 5px 50px;
+}
